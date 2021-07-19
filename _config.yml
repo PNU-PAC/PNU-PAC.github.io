@@ -2,7 +2,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "PNU-PAC"
 title_separator          : "-"
 description              : "site of PNU-PAC"
 url                      : "PNU-PAC.github.io"
